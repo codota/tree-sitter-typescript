@@ -1,0 +1,5 @@
+{
+"name": "tree-sitter-typescript",
+"version": "0.20.0",
+  "main": "../bindings/node/typescript"
+}
